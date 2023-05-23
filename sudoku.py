@@ -115,4 +115,5 @@ class Grid:
 
 if __name__ == "__main__":
     grid = Grid()
+    grid.solve()
     print(grid)
